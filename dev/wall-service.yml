@@ -1,0 +1,7 @@
+server:
+  context-path: /wall
+  port: 8001
+
+ribbon:
+  eureka:
+    enabled: true
